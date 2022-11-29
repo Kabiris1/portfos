@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Basic Application There are some Monsters calling them from RoboHash API",
     image: "./project-2.gif",
-    link: "/",
+    link: "https://october-monsters.netlify.app/",
   },
   {
     title: "DevChat",
