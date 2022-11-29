@@ -1,17 +1,17 @@
 export const projects = [
   {
     title: "Goodluck visa (Job app)",
-    subtitle: "MERN Stack",
+    subtitle: "React",
     description:
       "An application to upload jobs for client. Created with react, checkout=>",
     image: "./project-1.gif",
     link: "https://gooodluckvisa.netlify.app/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "October Monsters",
+    subtitle: "React ",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Basic Application There are some Monsters calling them from RoboHash API",
     image: "./project-2.gif",
     link: "/",
   },
