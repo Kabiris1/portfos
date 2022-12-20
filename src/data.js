@@ -11,17 +11,16 @@ export const projects = [
     title: "October Monsters",
     subtitle: "React ",
     description:
-      "Basic Application There are some Monsters calling them from RoboHash API",
+      "Basic Application These Monsters are comming from Robohash API",
     image: "./project-2.gif",
     link: "https://october-monsters.netlify.app/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "LadderGuru",
+    subtitle: "HTML, CSS, JAVASCRIPT",
+    description: "A Website for Career Counselling Agency",
     image: "./project-3.gif",
-    link: "/",
+    link: "https://ladder.guru/index.html",
   },
   {
     title: "Epic Todo App",
