@@ -37,14 +37,14 @@ export const testimonials = [
       "Thanks for your expertise to my project, Really happy working with you as you did all the work on time which is definitely a great job. I say would he's worth.",
     imgFile: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
-    company: "",
+    company: "JP morgan",
   },
   {
     quote:
       "I am so glad that finally my business went online and it all possible because of Abdul karam thanks bro. You're maintaining my website also happy to have a developer.",
-    imgFile: "/public/client.jpg h-1/2 w-1/2",
-    name: "Syed Raziq ali",
-    company: "Goodluck visa",
+    imgFile: "public/client.jpg",
+    name: "Isabella lewis",
+    company: "wipro",
   },
 ];
 
