@@ -27,7 +27,7 @@ export const projects = [
     subtitle: "React Hooks",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
     image: "./project-4.gif",
-    link: "/",
+    link: "https://skytruebot.netlify.app/",
   },
 ];
 
