@@ -7,13 +7,13 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm <br />
-            Kabir De Lawrence.
+            ABDUL KARAM.
             <br className="hidden lg:inline-block" />I love to build amazing
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am an experienced full-stack developer working as freelance. I
-            specialize in Node and Express .js on the backend and the modern
+            I am an experienced Frontend developer currently working at SkyGoal.
+            I specialize in Node and Express .js on the backend and the modern
             JavaScript React on the frontend. In the last years, I have gained
             experience with the Goodluck Visa platform as well as modern
             client-side frameworks, particularly React.

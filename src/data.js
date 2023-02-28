@@ -1,11 +1,10 @@
 export const projects = [
   {
-    title: "Goodluck visa (Job app)",
+    title: "Gym APP",
     subtitle: "React",
-    description:
-      "An application to upload jobs for client. Created with react, checkout=>",
+    description: "An application which Provides you tons of body exercise.",
     image: "./project-1.gif",
-    link: "https://gooodluckvisa.netlify.app/",
+    link: "https://abdul-karam-gym.netlify.app/",
   },
   {
     title: "October Monsters",
@@ -23,9 +22,9 @@ export const projects = [
     link: "https://ladder.guru/index.html",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+    title: "TrueBot ",
+    subtitle: "React",
+    description: "an Application for apple product repair shop ",
     image: "./project-4.gif",
     link: "https://skytruebot.netlify.app/",
   },
