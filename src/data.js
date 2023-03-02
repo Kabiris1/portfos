@@ -7,13 +7,13 @@ export const projects = [
     link: "https://abdul-karam-gym.netlify.app/",
   },
   {
-    title: "October Monsters",
-    subtitle: "React ",
-    description:
-      "Basic Application These Monsters are comming from Robohash API",
-    image: "./project-2.gif",
-    link: "https://october-monsters.netlify.app/",
+    title: "OPENAI ",
+    subtitle: "HTML CSS JS API OPENAI",
+    description: "calling openai API to web app ",
+    image: "./project-5.gif",
+    link: "https://abdul-karam-openai.vercel.app/",
   },
+
   {
     title: "LadderGuru",
     subtitle: "HTML, CSS, JAVASCRIPT",
@@ -27,6 +27,14 @@ export const projects = [
     description: "an Application for apple product repair shop ",
     image: "./project-4.gif",
     link: "https://skytruebot.netlify.app/",
+  },
+  {
+    title: "October Monsters",
+    subtitle: "React ",
+    description:
+      "Basic Application These Monsters are comming from Robohash API",
+    image: "./project-2.gif",
+    link: "https://october-monsters.netlify.app/",
   },
 ];
 
