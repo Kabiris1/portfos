@@ -29,6 +29,13 @@ export const projects = [
     link: "https://skytruebot.netlify.app/",
   },
   {
+    title: "Add NOTES ",
+    subtitle: "React",
+    description: "ADD NOTES TODO LIST any name you can give it ",
+    image: "./project-6.gif",
+    link: "https://ak-add-note.netlify.app",
+  },
+  {
     title: "October Monsters",
     subtitle: "React ",
     description:
